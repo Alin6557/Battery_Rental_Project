@@ -1,0 +1,152 @@
+.navbar {
+  background-color: #9c9a9a;
+}
+
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus {
+  color: #1fb00f;
+}
+
+.navbar .navbar-text a {
+  color: #ffffff;
+}
+.navbar .navbar-text a:hover,
+.navbar .navbar-text a:focus {
+  color: #1fb00f;
+}
+
+.navbar .navbar-nav .nav-link:not(.disabled):hover,
+.navbar .navbar-nav .nav-link:not(.disabled):focus {
+  color: #1fb00f;
+}
+.navbar .navbar-nav .dropdown-menu {
+  background-color: #9c9a9a;
+  border-color: #1fb00f;
+}
+
+#navbarCollapse {
+  text-align: center;
+}
+
+.logo {
+  max-width: 150px;
+  max-height: 30px;
+}
+
+.centerwrap {
+  text-align: center;
+}
+
+.carousel {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-left: 10%;
+  margin-right: 10%;
+  justify-content: center;
+}
+
+.carousel img {
+  max-width: 100%;
+  max-height: 650px;
+}
+
+body {
+  padding-top: 40px;
+}
+
+.imgheight {
+  max-height: 600px;
+  padding-left: 20%;
+}
+
+.usernav {
+  align-content: right;
+}
+
+.rentalgrid {
+  padding-top: 10%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.centergrid {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+figure {
+  display: inline-block;
+
+  margin: 20px; /* adjust as needed */
+}
+figure img {
+  vertical-align: top;
+}
+figure figcaption {
+  text-align: center;
+}
+
+.addpayment .battery-availability .row {
+  padding-top: 3px;
+}
+
+.nobattery {
+  opacity: 0.4;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.centerclass {
+  margin: auto;
+}
+
+.imagemod {
+  max-width: 100%;
+  height: auto;
+}
+
+.float-right {
+  align-content: right;
+}
+
+.greentxt {
+  color: #1fb00f;
+}
+
+.lead,
+.featurette-heading {
+  text-align: center;
+}
+
+.featurette-heading {
+  font-size: 3.5rem;
+}
+
+.lead {
+  font-size: 35px;
+}
+
+.vertical-center {
+  vertical-align: middle;
+}
+
+.tablef {
+  padding-top: 40px;
+}
+
+.cardimg {
+  max-width: 465px;
+  max-height: 280px;
+}
+
+.card-text {
+  padding-top: 10px;
+}
+
+body {
+  overflow-x: hidden;
+}

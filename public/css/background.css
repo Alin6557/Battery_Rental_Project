@@ -1,0 +1,8 @@
+body {
+  background: url("https://images.squarespace-cdn.com/content/5813cddb8419c25c3b42eacd/1510089455873-JE0Z8N4ZSCP0IRD1CO16/manhattan+sunset+new+york+city+empire+state+building+timelapse.jpg?content-type=image%2Fjpeg")
+    no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
